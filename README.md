@@ -29,4 +29,7 @@
   - `widgets` - Contains all the custom widgets built for the application.
   - `services` - Contains all the services built for the application.
   
-
+## Demo showdown
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/62396197/230890186-c71f5c8a-ecb3-461f-9694-bb9afb6ed421.gif" width="300">
+</p>
