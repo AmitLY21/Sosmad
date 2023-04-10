@@ -1,16 +1,26 @@
-# social_network_demo
+# Sosmad - Social Network Demo App
 
-A social network demo project.
+👋 Welcome to Sosmad, a social network demo app built as a personal project to practice building custom widgets and project structure. In this project, I utilized several libraries such as `google_nav_bar`, `google_fonts`, `faker`, and `flutter_staggered_grid_view`.
 
-## Getting Started
+💡 Please note that this is just the design without any backend capabilities. Feel free to add your own functionalities!
 
-This project is a starting point for a Flutter application.
+📱 The Sosmad app features a sleek and modern design, but it is important to note that the design is not mine. The design was found on Dribbble at this link: https://dribbble.com/shots/18340567-Sosmad-Social-Media-App
 
-A few resources to get you started if this is your first Flutter project:
+## Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- `Flutter` - Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- `google_nav_bar` - A modern google style nav bar for flutter.
+- `google_fonts` - Package for using custom fonts in flutter.
+- `faker` - A Dart package for generating fake data.
+- `flutter_staggered_grid_view` - A flutter staggered grid view.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+- `lib` - Contains all the dart code for the application.
+  - `constants` - Contains constants used throughout the application.
+  - `models` - Contains model classes used throughout the application.
+  - `screens` - Contains all the UI screens of the application.
+  - `widgets` - Contains all the custom widgets built for the application.
+  - `services` - Contains all the services built for the application.
+  
+
