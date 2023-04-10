@@ -6,6 +6,12 @@
 
 📱 The Sosmad app features a sleek and modern design, but it is important to note that the design is not mine. The design was found on Dribbble at this link: https://dribbble.com/shots/18340567-Sosmad-Social-Media-App
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/62396197/230889117-fce54d16-4755-49c2-9e16-c604a931b380.png" width="200">
+  <img src="https://user-images.githubusercontent.com/62396197/230889113-a6da0f4c-4bca-448e-acdc-09cc470a8c4e.png" width="200">
+  <img src="https://user-images.githubusercontent.com/62396197/230889098-b8ef1966-e9c0-41d6-a9a8-3859c60ee4a0.png" width="200">
+</p>
+
 ## Built With
 
 - `Flutter` - Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
